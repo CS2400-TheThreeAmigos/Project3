@@ -30,7 +30,7 @@ public class DriverBT
 		createTree2(aTree2);
 		
 		System.out.println("(binaryTree) post-order: ");
-		aTree2.postorderTraverse();
+		//aTree2.postorderTraverse();
 		
 		System.out.println("(binaryNode) post-order: ");
 		aTree2.postorderTraverse_callBinaryNodeMethod();
